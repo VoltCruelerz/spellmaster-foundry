@@ -1,0 +1,16 @@
+{
+    "name": "spellmaster-foundry",
+    "title": "SpellMaster - Foundry Edition",
+    "description": "Adds more advanced filtering and spell preparation options to Foundry VTT.",
+    "version": "0.0.1",
+    "author": "https://github.com/VoltCruelerz",
+    "minimumCoreVersion": "0.6.4",
+    "compatibleCoreVersion": "0.6.4",
+    "systems": ["dnd5e"],
+    "esmodules": [
+        "spellmaster-foundry.js"
+    ],
+    "url": "https://github.com/VoltCruelerz/spellmaster-foundry",
+    "manifest": "https://raw.githubusercontent.com/VoltCruelerz/spellmaster-foundry/master/module.json",
+    "download": "https://github.com/VoltCruelerz/spellmaster-foundry/raw/master/spellmaster-foundry.zip"
+}

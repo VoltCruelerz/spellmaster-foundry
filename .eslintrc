@@ -1,0 +1,31 @@
+{
+    "extends": [
+      "standard",
+      "plugin:node/recommended",
+      "plugin:promise/recommended",
+      "plugin:import/errors"
+    ],
+    "parserOptions": {
+      "ecmaVersion": 2018,
+      "sourceType": "module"
+    },
+    "env": {
+      "es6": true,
+      "mocha": true,
+      "node": true
+    },
+    "rules": {
+      "indent": ["error", 4, {"SwitchCase": 1}],
+      "semi": ["error", "always"],
+      "no-case-declarations": 0,
+      "no-console": 0,
+      "no-process-exit": 0,
+      "node/shebang": 0,
+      "node/no-unpublished-require": 0,
+      "promise/no-nesting": 0,
+      "promise/no-callback-in-promise": 0,
+      "max-len": 0,
+      "no-trailing-spaces": ["error", { "skipBlankLines": true, "ignoreComments": true }]
+    }
+  }
+  

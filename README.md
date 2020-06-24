@@ -1,0 +1,2 @@
+# SpellMaster - Foundry Edition
+
