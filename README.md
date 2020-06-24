@@ -4,6 +4,8 @@ Like [SpellMaster](https://github.com/VoltCruelerz/spellmaster) before it, this 
 
 ## Features
 
+None yet!  This is still in early development and I don't know what I'm doing!!! :D
+
 ## Issues
 If you run into any issues, feel free to create an [Issue](https://github.com/VoltCruelerz/spellmaster-foundry/issues).
 
