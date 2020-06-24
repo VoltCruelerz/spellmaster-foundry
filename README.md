@@ -9,4 +9,4 @@ If you run into any issues, feel free to create an [Issue](https://github.com/Vo
 
 ## Contact
 
-VoltCruelerz@gmail.com
+VoltCruelerz @ gmail.com
